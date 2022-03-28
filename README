@@ -1,6 +1,9 @@
 What does the program do?
 
-It creates a randomly generated maze each time depending on the parameters 
+It creates a randomly generated maze each time depending on the parameters.
+The maze will always have exactly one solution.
+The path is marked by the dots inside of each cell of the maze.
+The maze is solved from the top left to the bottom right.
 
 
 
