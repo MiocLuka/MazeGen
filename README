@@ -1,0 +1,4 @@
+How to run the code?
+
+After compiling the file the user should input the arguments in the command line (example: ./mazeGen 5 5). 
+The first parameter is the number of rows in the maze, the sceond is the number of columns.
