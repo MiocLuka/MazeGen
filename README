@@ -1,4 +1,9 @@
+What does the program do?
+
+It creates a randomly generated maze each time depending on the parameters 
+
 How to run the code?
 
 After compiling the file the user should input the arguments in the command line (example: ./mazeGen 5 5). 
 The first parameter is the number of rows in the maze, the sceond is the number of columns.
+If the thrid parameter is also given the maze will take it as the seed for generating random numbers.
